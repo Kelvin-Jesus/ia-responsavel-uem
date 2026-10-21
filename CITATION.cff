@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "Se usar estas skills, cite este repositório e a Instrução Normativa GRE nº 1/2026 da UEM."
+title: "IA com responsabilidade: skills para estudantes da UEM"
+type: software
+authors:
+  - family-names: Jesus
+    given-names: Kelvin
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
+repository-code: "https://github.com/Kelvin-Jesus/ia-responsavel-uem"
+abstract: >-
+  Skills de agente que fazem a IA seguir o guia "IA com responsabilidade" da
+  Universidade Estadual de Maringá (IN GRE nº 1/2026): uma skill de regras
+  (semáforo, vedações, proteção de dados, verificação, declaração de uso) e um
+  tutor para qualquer disciplina de graduação.
+keywords:
+  - inteligência artificial
+  - integridade acadêmica
+  - UEM
+  - agent skills
+  - Claude
+references:
+  - type: report
+    title: "Instrução Normativa GRE nº 1/2026: uso responsável de ferramentas de Inteligência Artificial na UEM"
+    authors:
+      - name: "Universidade Estadual de Maringá"
+    year: 2026
+  - type: report
+    title: "IA com responsabilidade: guia prático para estudantes"
+    authors:
+      - name: "Universidade Estadual de Maringá, Pró-Reitoria de Ensino (PEN)"
+      - name: "Universidade Estadual de Maringá, Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação (PPG)"
+    year: 2026
+    url: "https://ppg.uem.br/arquivos-gerais/guia-ia_compressed.pdf"
+  - type: software
+    title: "Skills For Real Engineers"
+    authors:
+      - family-names: Pocock
+        given-names: Matt
+    url: "https://github.com/mattpocock/skills"
+  - type: software
+    title: "skill-creator"
+    authors:
+      - name: Anthropic
+    url: "https://github.com/anthropics/skills"

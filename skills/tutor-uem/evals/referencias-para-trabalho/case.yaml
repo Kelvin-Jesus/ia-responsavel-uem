@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: referencias-para-trabalho
+expected_outcome: |
+  Uso amarelo com permissão. O tutor registra o combinado em COMBINADOS.md, sugere
+  referências marcadas como "a verificar" em FONTES.md, ensina os 4 passos de verificação e
+  lembra que não se cita o que não se leu. A declaração segue o Modelo 1 (ferramenta e
+  versão, mês/ano, finalidade, revisão) com base no uso real, não genérica.

@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: estudar-topico-verde
+expected_outcome: |
+  Uso verde. O tutor pede primeiro a tentativa/o que o estudante já sabe (ou faz isso junto
+  da explicação), explica rotação com diagrama de árvore real, propõe um problema de prática
+  para o estudante resolver sozinho e cria/atualiza os arquivos do workspace
+  (registro da sessão, APRENDIZADO.md).

@@ -1,0 +1,17 @@
+{
+  "name": "ia-responsavel-uem",
+  "owner": {
+    "name": "Kelvin Jesus",
+    "url": "https://github.com/Kelvin-Jesus"
+  },
+  "description": "Skills que fazem a IA seguir o guia de IA da UEM.",
+  "plugins": [
+    {
+      "name": "ia-responsavel-uem",
+      "source": "./",
+      "description": "Regras do guia de IA da UEM (IN GRE nº 1/2026) e um tutor para qualquer disciplina de graduação.",
+      "category": "education",
+      "keywords": ["uem", "integridade-academica", "tutor", "estudo"]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ia-responsavel-uem",
+  "version": "1.0.0",
+  "description": "Regras do guia de IA da UEM (IN GRE nº 1/2026) e um tutor para qualquer disciplina de graduação que as segue.",
+  "author": {
+    "name": "Kelvin Jesus",
+    "url": "https://github.com/Kelvin-Jesus"
+  },
+  "repository": "https://github.com/Kelvin-Jesus/ia-responsavel-uem",
+  "license": "MIT",
+  "keywords": ["uem", "integridade-academica", "tutor", "estudo", "ia-responsavel"],
+  "skills": [
+    "./skills/ia-responsavel-uem",
+    "./skills/tutor-uem"
+  ]
+}
