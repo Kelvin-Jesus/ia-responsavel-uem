@@ -32,6 +32,8 @@ As regras ficam numa skill separada (`ia-responsavel-uem`) para valerem também 
 /plugin install ia-responsavel-uem@ia-responsavel-uem
 ```
 
+Instalado como plugin, o Claude Code põe o nome do plugin na frente das skills: o tutor fica em **`/ia-responsavel-uem:tutor-uem`**. Nas outras formas de instalação ele é só `/tutor-uem`. Para atualizar depois: `/plugin marketplace update ia-responsavel-uem`.
+
 ### Qualquer agente (skills.sh)
 
 ```bash
@@ -48,7 +50,7 @@ Compacte cada pasta de `skills/` num `.zip` e envie como skill personalizada nas
 
 ## Como usar
 
-Abra o agente na pasta onde você estuda a matéria e chame o tutor:
+Abra o agente na pasta onde você estuda a matéria e chame o tutor (pelo plugin, troque `/tutor-uem` por `/ia-responsavel-uem:tutor-uem`):
 
 ```text
 /tutor-uem Estruturas de Dados — não entendo rotação em árvore AVL, tenho prova semana que vem
